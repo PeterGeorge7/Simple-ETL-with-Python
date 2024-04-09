@@ -1,2 +1,2 @@
-# Simple-ETL-using-Python
+# Simple ETL using Python
  
